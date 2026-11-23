@@ -1,9 +1,0 @@
-/* 체스 이식용 추가 스타일 — 기존 style/ink-theme/guide 뒤에 불러오세요 */
-.pcard .clk{font-weight:900;font-variant-numeric:tabular-nums;font-size:1.05em;min-width:62px;text-align:center;padding:2px 8px;background:#faf9f1;border:1px solid #a7b098;border-radius:2px;color:var(--text)}
-.pcard.turn .clk{background:#344435;border-color:#344435;color:#fbf8ec}
-.pcard .clk.low,.pcard.turn .clk.low{background:#a5432f;border-color:#a5432f;color:#fff}
-.g-moves{width:100%;max-height:96px;overflow:auto;padding:8px 12px;border:1px solid #989e8d;background:#faf9f1;font-size:.9em;line-height:1.7;border-radius:2px}
-.g-moves .mn{color:var(--muted);margin-left:8px}
-.g-moves .last{font-weight:900;background:#e9d95a66;padding:0 3px}
-.game-foot{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
-.board-wrap{box-shadow:0 14px 34px #1e281e59,0 0 0 3px #3a2208}
